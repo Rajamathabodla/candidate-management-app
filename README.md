@@ -16,7 +16,7 @@ A full-stack web application to display, search, filter, add, and manage candida
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend:**
 - React.js
