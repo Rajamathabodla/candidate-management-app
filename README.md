@@ -33,3 +33,20 @@ A full-stack web application to display, search, filter, add, and manage candida
 ## Installation Guide
 
 ###  Backend Setup
+
+
+
+
+candidate-management-app/
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── seed.js
+│   └── server.js
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── App.js
+│   │   └── App.css
+└── README.md
+
